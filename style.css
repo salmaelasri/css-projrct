@@ -1,0 +1,38 @@
+body{
+    background-color:lightgray ;
+}
+h1{
+    text-align: center;
+}
+.tst1{
+    color: red;
+    font-weight: bold;
+}
+.image{
+    object-position: center top;
+    width: 250px;
+}
+.it{
+    font-style: italic;
+}
+.test1{color: rgb(0, 128, 43) ;}
+.test2{color: red;}
+.imge{
+    width: 200px;
+    object-position: center top;
+}
+table{
+    border-collapse: collapse;
+  }
+  
+   td{
+    border: 1px solid black;
+    padding: 10px;
+  }
+ .name{
+    border:3px black solid;
+    background-color: white;
+    text-align: center;
+    width: 500px;
+ }
+ 
